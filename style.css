@@ -50,6 +50,7 @@ header h4 {
 .divnav {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .divnav p{
@@ -57,7 +58,6 @@ header h4 {
     padding-left: 3%;
     padding-right: 3%;
     color: #6E6D7A;
-    align-items: center;
     width: 100%;
 }
 
